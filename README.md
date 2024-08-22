@@ -1,5 +1,5 @@
 # Node.js Homework 1
-	A homework about file manipulation using path, fs and command.
+	A homework about file manipulation using path, fs and commander.
 
 ## Screen shots
 

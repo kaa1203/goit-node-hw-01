@@ -4,16 +4,16 @@
 ## Screen shots
 
 1. **LIST CONTACTS**
-<img src="https://ibb.co/4VQrNBt" alt="list">
+<img src="https://i.ibb.co/87hZ8Fs/goit-node-hw-01-list.gif" alt="list">
 
 2. **GET CONTACT BY ID**
-<img src="https://ibb.co/6WsJ9JX" alt="get">
+<img src="https://i.ibb.co/qr1FqFJ/goit-node-hw-01-get.gif" alt="get">
 
 3. **ADD CONTACT**
-<img src="https://ibb.co/09wgW5t" alt="add">
+<img src="https://i.ibb.co/n1WHVpC/goit-node-hw-01-add.gif" alt="add">
 
 4. **REMOVE CONTACT**
-<img src="https://ibb.co/wgFfGND" alt="remove">
+<img src="https://i.ibb.co/Gp4qYvg/goit-node-hw-01-remove.gif" alt="remove">
 
 ## Modules used:
 
